@@ -1,0 +1,19 @@
+{
+  "name": "bleep",
+  "version": "1.0.0",
+  "description": "basic chat app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "cd client && npm install && npm run build"
+  },
+  "author": "Derek Lo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

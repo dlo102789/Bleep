@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.ChatHeader {
+  border: 1px solid #ccc !important;
+  padding: 1em 16px;
+  border-radius: 16px;
+  background-color: aliceblue;
+  margin-top: 16px
+}
